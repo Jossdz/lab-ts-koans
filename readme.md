@@ -118,7 +118,7 @@ npm i # or npm ci
 
 In the beginning, you will see all the tests in green. This is because only the tests that are passing are un-commented. The tests we have to implement are commented out.
 
-Open the `koans.spec.js` file and uncomment the test assertions.
+Open the `koans.spec.ts` file and uncomment the test assertions.
 
 Unncommenting those assertions will give you a failing test that you need to make it pass.
 
